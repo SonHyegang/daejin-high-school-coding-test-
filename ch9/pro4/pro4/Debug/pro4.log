@@ -1,0 +1,9 @@
+﻿  소스.c
+c:\users\손학규\desktop\2019 cose1\컴퓨터프로그래밍\과제\20190605 homework\pro4\pro4\소스.c(23): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\손학규\desktop\2019 cose1\컴퓨터프로그래밍\과제\20190605 homework\pro4\pro4\소스.c(53): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\손학규\desktop\2019 cose1\컴퓨터프로그래밍\과제\20190605 homework\pro4\pro4\소스.c(47): warning C4477: 'printf' : 서식 문자열 '%-6s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+c:\users\손학규\desktop\2019 cose1\컴퓨터프로그래밍\과제\20190605 homework\pro4\pro4\소스.c(47): warning C4477: 'printf' : 서식 문자열 '%-15s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double'입니다.
+c:\users\손학규\desktop\2019 cose1\컴퓨터프로그래밍\과제\20190605 homework\pro4\pro4\소스.c(47): warning C4477: 'printf' : 서식 문자열 '%-5s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'int'입니다.
+c:\users\손학규\desktop\2019 cose1\컴퓨터프로그래밍\과제\20190605 homework\pro4\pro4\소스.c(47): warning C4477: 'printf' : 서식 문자열 '%-5s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'int'입니다.
+c:\users\손학규\desktop\2019 cose1\컴퓨터프로그래밍\과제\20190605 homework\pro4\pro4\소스.c(47): warning C4477: 'printf' : 서식 문자열 '%-s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'int'입니다.
+  pro4.vcxproj -> C:\Users\손학규\Desktop\2019 COSE1\컴퓨터프로그래밍\과제\20190605 homework\pro4\Debug\pro4.exe

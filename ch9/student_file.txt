@@ -1,0 +1,5 @@
+Son 2019320121 1 Computer
+Choi 2019320011 1 Computer
+Kim 2019130010 3 Math
+Kock 2014024012 2 Korean
+Joo 2015023232 4 None
